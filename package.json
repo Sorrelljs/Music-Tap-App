@@ -1,0 +1,11 @@
+{
+  "name": "music-app",
+  "version": "1.0.0",
+  "description": "music app, tap a color, receive a unique sound",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "sjs",
+  "license": "ISC"
+}
